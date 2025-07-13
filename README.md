@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 My name is **Mohamad** — I'm a Frontend Developer interested in all things related to Web Development!  
-☕ Turning coffee into interfaces.
 
 - 🔭 I’m currently working on [**ECLIPSE**](http://eclipses.site/), building a bleeding-edge website with stunning animations and immersive effects.
 - 🌱 I’m experimenting with low-level development to deepen my understanding of how browsers and systems work.
@@ -21,7 +20,7 @@ My name is **Mohamad** — I'm a Frontend Developer interested in all things rel
   <a href="mailto:mohamadeshayanfar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mohamad-shayanfar-982347352">
+  <a href="linkedin.com/in/mohamad-shayanfar-982347352">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
