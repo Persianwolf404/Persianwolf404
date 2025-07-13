@@ -12,10 +12,10 @@ My name is **Mohamad** — I'm a Frontend Developer interested in all things rel
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/PERSIAN_W0LF">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://wa.me/YOUR_NUMBER">
+  <a href="https://wa.me/989010789033">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:mohamadeshayanfar@gmail.com">
