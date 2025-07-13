@@ -20,7 +20,7 @@ My name is **Mohamad** — I'm a Frontend Developer interested in all things rel
   <a href="mailto:mohamadeshayanfar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="linkedin.com/in/mohamad-shayanfar-982347352">
+  <a href="https://www.linkedin.com/in/mohamad-shayanfar-982347352/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
