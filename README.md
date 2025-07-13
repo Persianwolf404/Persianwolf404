@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is **Mohamad** — I'm a Frontend Developer interested in all things related to Web Development!
+My name is **Mohamad** — I'm a Frontend Developer interested in all things related to Web Development!  
+☕ Turning coffee into interfaces.
 
 - 🔭 I’m currently working on [**ECLIPSE**](http://eclipses.site/), building a bleeding-edge website with stunning animations and immersive effects.
 - 🌱 I’m experimenting with low-level development to deepen my understanding of how browsers and systems work.
@@ -10,10 +11,20 @@ My name is **Mohamad** — I'm a Frontend Developer interested in all things rel
 
 ### 🔗 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadeshayanfar@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-shayanfar-982347352)
+<p align="center">
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/YOUR_NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:mohamadeshayanfar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohamad-shayanfar-982347352">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -33,4 +44,4 @@ My name is **Mohamad** — I'm a Frontend Developer interested in all things rel
 
 ---
 
-> ⚡ Fun fact: I love clean UIs and messy terminals. Yeah, it’s a vibe 😎
+> ⚡ Fun fact: I Turn Coffe into interfaces!
