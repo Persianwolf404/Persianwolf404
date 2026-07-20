@@ -56,7 +56,7 @@
 ---
 
 ### Connect with Me
-
+<br>
 <p align="center">
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
