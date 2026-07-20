@@ -61,6 +61,9 @@
   <a href="https://mohamad-shayanfar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1-jB3TCx9XcsA25_yFQBbNKkJFCZZlt7Q/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
   <a href="https://t.me/Mamadshf">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
